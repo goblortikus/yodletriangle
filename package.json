@@ -1,0 +1,25 @@
+{
+  "name": "yodletriangle",
+  "version": "1.0.0",
+  "description": "read and sum yodle triangle programming exercise ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goblortikus/yodletriangle.git"
+  },
+  "author": "Monir Mamoun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goblortikus/yodletriangle/issues"
+  },
+  "homepage": "https://github.com/goblortikus/yodletriangle",
+  "dependencies": {
+    "csv-parse": "^1.1.7",
+    "fetch": "^1.1.0",
+    "node-fetch": "^1.6.2"
+  }
+}
